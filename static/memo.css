@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.memo-area{
+    width: 90%;
+    padding: 1%;
+    margin: 0 auto;
+    text-align: right;
+}
+#memo-text{
+    width: 100%;
+    resize: both;
+    border: 1px #707070 solid;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#keep-button{
+    padding: 0.25rem 0.5rem;
+    border-radius: 10%;
+    background-color: rgb(136, 192, 252);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
